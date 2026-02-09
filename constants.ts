@@ -25,7 +25,7 @@ export const MATERIAL_TABS = [
 
 export const ADMIN_CREDENTIALS = {
   username: 'admin',
-  password: '123'
+  password: 'admin@123'
 };
 
 // For this demo, all locations use the same password or 'pass'
